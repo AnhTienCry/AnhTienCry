@@ -59,8 +59,8 @@
 
 <br/>
 
+
+
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=AnhTienCry&theme=radical&no-frame=true&no-bg=true&margin-w=15&margin-h=15" />
-  <br/><br/>
-  <img src="https://visitcount.itsvg.in/api?id=AnhTienCry&icon=7&color=10" />
+  <img src="https://i.pinimg.com/originals/2b/61/c3/2b61c382877280301090580800900100.gif" width="100%" alt="Cyberpunk Coding" style="border-radius: 10px;"/>
 </div>
