@@ -46,19 +46,7 @@
 <br/>
 
 <div align="center">
-  <h3 style="color: #c9d1d9;">🏆 Achievements & Activity</h3>
-
-  <img src="https://github-profile-trophy.vercel.app/?username=AnhTienCry&theme=onedark&no-frame=true&no-bg=true&margin-w=10" />
+  <h3 style="color: #c9d1d9;">⚡ Contribution Activity</h3>
   
-  <br/><br/>
-
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=AnhTienCry&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true&area=true" width="100%" />
-
-</div>
-
-<div align="center">
-  <br/>
-  <img src="https://media.giphy.com/media/L1R1TVXRtNmAiG4OFG/giphy.gif" width="200px" />
-  <br/>
-  <img src="https://visitcount.itsvg.in/api?id=AnhTienCry&icon=8&color=4" />
 </div>
